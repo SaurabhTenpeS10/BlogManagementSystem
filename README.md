@@ -140,4 +140,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
-This `README.md` is structured to provide an overview of the project, its features, and instructions to set it up and deploy. Add actual screenshots and links as needed.
