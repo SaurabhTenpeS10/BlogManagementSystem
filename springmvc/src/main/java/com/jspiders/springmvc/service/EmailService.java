@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class EmailService {
 
-    private static final String EMAIL = "co.2020.satenpe@bitwardha.ac.in";  // Replace with actual email
-    private static final String PASSWORD = "mwnk rjtc xhpk joca";  // Replace with actual password
+    private static final String EMAIL = "abc@gmail.com";  // Replace with actual email
+    private static final String PASSWORD = "xxxx xxxx xxxx";  // Replace with actual password (App Paasword from your gmail)
 
     public void sendVerificationEmail(String recipientEmail, String code) {
         Properties properties = new Properties();
